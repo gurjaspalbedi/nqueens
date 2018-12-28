@@ -1,6 +1,6 @@
 
 # N-queens, N-Rooks and N-Knights Problem
-This program solves n-queens, n-rooks and n-knights standard problems using basic search algorithm
+This program solves n-queens, n-rooks and n-knights standard problems using basic search algorithm</br>
 **How to run the program:**
 
     python board.py <problem_type> <board_size> [blocker_size] [points]
